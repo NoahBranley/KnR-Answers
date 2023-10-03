@@ -1,4 +1,4 @@
-/* exercise 1-2 */
+/* experiment what happens when printf conatins /c */
 #include <stdio.h>
 
 int main()

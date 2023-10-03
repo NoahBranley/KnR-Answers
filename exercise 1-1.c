@@ -1,4 +1,4 @@
-/* exercise 1-1 */
+/* "Run the hello world on your system" */
 #include <stdio.h>
 
 int main()

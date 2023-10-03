@@ -1,5 +1,5 @@
+/*make the f to c conversion chart to a c to f conversion chart*/
 #include <stdio.h>
-
 int main()
 {
     float fahr, celc;
