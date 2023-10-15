@@ -16,3 +16,4 @@ while ((c = getchar()) != EOF) {
 }
 return 0;
 }
+/*used stack overflow and found a good explanation to help me with this one*/

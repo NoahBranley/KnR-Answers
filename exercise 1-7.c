@@ -8,4 +8,4 @@ int main()
   while ((c = getchar()) != EOF)
   printf("%d\n", EOF);
 }
-/*i think this is right lmao*/
+/*i think this is right lmao*/0
