@@ -1,0 +1,3 @@
+"how would you test the world count program? what kinds of input are most likley to uncover bugs if there are any?"
+
+personally i would test with integers first, try inputs like '\n', '\b', '\t' etc.
